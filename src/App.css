@@ -34,9 +34,9 @@ line-height: 48px;
   margin-top: 40px;
   margin-left: 100px;
 }
-@media screen and (max-width: 780px) {
+/* @media screen and (max-width: 780px) {
   .table{
     margin-top: -100px;
     margin-left: 10px;
   }
-}
+} */
